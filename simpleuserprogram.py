@@ -40,3 +40,4 @@ if user == (""):
 
 #CODE BY MELONICOVERLORD - FOR PERSONAL USE ONLY!
 #Code Version: V0.9
+#Licence: ODbL-V1.0
