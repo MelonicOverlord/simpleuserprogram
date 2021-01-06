@@ -38,6 +38,6 @@ if user == ("M"):
 if user == (""):
     print("This Is The End Of ThiS Code!")
 
-#CODE BY MELONICOVERLORD - FOR PERSONAL USE ONLY!
+#Code By MelonicOverlord
 #Code Version: V0.9
 #Licence: ODbL-V1.0
