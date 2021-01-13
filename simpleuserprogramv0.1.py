@@ -2,7 +2,7 @@ print("Hello There!")
 print("Do You Want To Know My Lucky Number?")
 print("Well, I Don't Care If You Want To Or Not! Here It Is!")
 
-lucky = putanumberhere
+lucky = "putanumberhere"
 print("My Lucky Number Is",lucky,"!")
 
 print("-----------------------------------------------------")
